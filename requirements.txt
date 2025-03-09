@@ -1,0 +1,11 @@
+numpy
+pygame
+tensorflow
+keras
+matplotlib
+opencv-python
+stable-baselines3
+torch
+torchvision
+torchaudio
+gym
